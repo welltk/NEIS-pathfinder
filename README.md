@@ -24,5 +24,5 @@ NEIS-pathfinder는 NEIS 출장목록을 불러와 자동으로 경로를 검색�
 ## 빌드 및 사용법
 https://docs.github.com/en/actions/use-cases-and-examples/building-and-testing/building-and-testing-go
 
-
-
+## 비고
+2024년 10월 8일 교육부 공무원제안(1AG-2410-0000117) 제출
