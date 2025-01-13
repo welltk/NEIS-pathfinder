@@ -3,8 +3,6 @@
 
 <p align="center">Go를 이용한 출장 경로 자동 검색</p>
 
-<p align="center"><img src="./sum.png" width="500px"></img></p>
-
 ## 개요
 
 NEIS-pathfinder는 NEIS 출장목록을 불러와 자동으로 경로를 검색하기 위해 만들어졌습니다.                                                   
