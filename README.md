@@ -1,4 +1,4 @@
-# go-NEIS-pathfinder
+# NEIS-pathfinder
 <h1 align="center" style="font-size: 200em;">NEIS-pathfinder (GOE Toy Project 2)</h1>
 
 <p align="center">Go를 이용한 출장 경로 자동 검색</p>
